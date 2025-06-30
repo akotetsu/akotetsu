@@ -3,7 +3,7 @@
 I'm an aspiring iOS developer with a passion for creating apps that solve small but meaningful problems in everyday life.
 
 ## 🚀 About Me
-- 🎓 Participated in **try! Swift Tokyo 2025** as a **Student Scholarship recipient**  
+- 🎓 Participated in **try! Swift Tokyo 2025 for Student**  
 - 📱 Currently focused on developing iOS apps using **Swift** and **SwiftUI**  
 - ☁️ Experienced in **Firebase** for backend integration  
 - 🖥️ Also learning backend development with **PHP**  
