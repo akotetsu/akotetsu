@@ -10,10 +10,14 @@ I'm an aspiring iOS developer with a passion for creating apps that solve small 
 
 I enjoy crafting simple, user-friendly apps that can make someone's day a little better — whether it's tracking moods, simplifying tasks, or helping users stay organized.
 
-## 🔧 Tech Stack
-- **Languages**: Swift, PHP  
-- **Frameworks**: SwiftUI  
-- **Tools**: Firebase (Authentication, Firestore, Storage)
+## 🛠 Programming Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=swift,php" />
+
+<br />
+
+- 🧩 Currently working mainly with **Swift** and **SwiftUI**  
+- 🔙 Also experienced in **PHP** for backend development  
 
 ## ✨ Goals
 My goal is to grow as a mobile developer by building products that offer real value. I believe even small apps can make a big difference when designed with empathy and care.
