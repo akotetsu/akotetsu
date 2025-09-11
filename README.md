@@ -6,17 +6,17 @@ I'm an aspiring iOS developer with a passion for creating apps that solve small 
 - 🎓 Participated in **try! Swift Tokyo 2025 for Student**
 - 📱 Currently focused on developing iOS apps using **Swift** and **SwiftUI**
 - ☁️ Experienced in **Firebase** for backend integration  
-- 🖥️ Also learning backend development with **PHP**
+- 🖥️ Also learning backend development with **Ruby**
 - I enjoy crafting simple, user-friendly apps that can make someone's day a little better — whether it's tracking moods, simplifying tasks, or helping users stay organized.
 
 ## 🛠 Programming Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=swift,php,kotlin" />
+<img src="https://skillicons.dev/icons?i=swift,ruby,kotlin" />
 
 <br />
 
 - 🧩 Currently working mainly with **Swift** and **SwiftUI**
-- 🔙 Also experienced in **PHP** for backend development  
+- 🔙 Also experienced in **Ruby** for backend development  
 - 💡 Recently, I've also been exploring **Kotlin** as I'm interested in cross-platform development.
 
 ## ✨ Goals
